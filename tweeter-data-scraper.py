@@ -31,10 +31,10 @@ query = '#covid%20OR%20#virus%20OR%20#corona%20OR%20corona%20OR%20virus'
 
 
 #Twitter credentials for the app
-consumer_key = 'RDOXodYj1dHJK2QL8hfLsX6fc' # API key
-consumer_secret = 'CYvxS2WQN9kaVRel0Lrmd2VnYwnxn34vHys6fUbWK3oQ5xuq9M' #API secret key
-access_key= '716133024-5XvWCuHr6d7zLEQ6KnzVmfQGvpgkM02aj0BD1NtJ' #Access token
-access_secret = '7K5E7e5by2UKGQSRo0VwIXQlQBnmF0L3sbAAOEkC4Nutw' #Access token secret
+consumer_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx' # API key
+consumer_secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx' #API secret key
+access_key= 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx' #Access token
+access_secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx' #Access token secret
 
 def set_credentials():
     #pass twitter credentials to tweepy
